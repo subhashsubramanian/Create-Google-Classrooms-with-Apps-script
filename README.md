@@ -1,5 +1,5 @@
 # Create Google Classrooms in bulk- for G-suite Administrator only
-a an apps script that creates classrooms from data in a google spreadsheet
+an apps script that creates classrooms from data in a google spreadsheet
 
 ## How to use ?
 In a Google spreadsheet, in Sheet1 (leave the name as Sheet1) enter course details as below. 
