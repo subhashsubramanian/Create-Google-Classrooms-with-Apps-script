@@ -2,7 +2,7 @@
 a an apps script that creates classrooms from data in a google spreadsheet
 
 ## How to use ?
-In a Google spreadsheet, enter course details as below. 
+In a Google spreadsheet, in Sheet1 (leave the name as Sheet1) enter course details as below. 
 
 Col 1 = Course name, Col 2 = Instructor Name Col 3 = Instructor Email, Col 4 = URL, Col 5 = Class Code
 
